@@ -1,6 +1,8 @@
 # Pavan Kalyan Jampana – SOC Analyst Portfolio
 
-SOC-focused Cybersecurity Analyst with hands-on experience in SIEM monitoring, endpoint security, incident triage, threat investigation, and detection engineering. I build practical SOC workflows using Microsoft Sentinel, Logic Apps, Sophos, Bitdefender, KQL-based detections, and hybrid telemetry collection across Windows and Linux environments.
+SOC-focused Cybersecurity Analyst with hands-on experience in SIEM monitoring, incident triage, endpoint security, and detection engineering.
+
+This portfolio showcases real SOC lab implementations, KQL-based detections, SOAR automation workflows, and incident investigation case studies built using Microsoft Sentinel, Sophos, and Azure security tools.
 
 ## About Me
 I am building toward SOC L1/L2 roles with a strong focus on alert triage, incident investigation, detection logic, and security operations in real lab environments. My work is centered on understanding attacker behavior, validating detections, and improving response workflows through automation and structured investigation.
