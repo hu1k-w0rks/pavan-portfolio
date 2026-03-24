@@ -96,9 +96,6 @@ Documented my approach to designing KQL-based analytics for practical SOC monito
 - Completed SOC, Blue Team, and Incident Response learning paths
 - Built hands-on labs for detection, investigation, and response
 
-## Resume
-[View Resume](./resume/Pavan_Kalyan_Jampana_Resume.pdf)
-
 ## Contact
 - Email: pavankalyan.jampana@gmail.com
 - LinkedIn: add-your-link-here
