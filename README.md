@@ -5,7 +5,7 @@ SOC-focused Cybersecurity Analyst with hands-on experience in SIEM monitoring, i
 This portfolio showcases real SOC lab implementations, KQL-based detections, SOAR automation workflows, and incident investigation case studies built using Microsoft Sentinel, Sophos, and Azure security tools.
 
 ## About Me
-I am building toward SOC L1/L2 roles with a strong focus on alert triage, incident investigation, detection logic, and security operations in real lab environments. My work is centered on understanding attacker behavior, validating detections, and improving response workflows through automation and structured investigation.
+Focused on SOC L1/L2 roles with hands-on experience in alert triage, incident investigation, detection logic, and security operations within lab-based environments.
 
 ## Core Areas
 - SIEM Monitoring
