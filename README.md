@@ -20,7 +20,7 @@ Focused on SOC L1/L2 roles with hands-on experience in alert triage, incident in
 ## Featured Projects
 
 ### 1. Microsoft Sentinel SIEM & SOAR Hybrid SOC Lab
-Built a hybrid SOC lab using Microsoft Sentinel, Azure Arc, Azure Monitor Agent, and endpoint telemetry from Windows and Ubuntu systems.
+Designed and implemented a hybrid SOC lab using Microsoft Sentinel to simulate real-world detection, investigation, and response workflows.
 
 **Highlights**
 - Centralized telemetry from Windows and Linux systems into Microsoft Sentinel
