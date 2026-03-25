@@ -40,8 +40,8 @@ Simulated ransomware-like behavior using a WannaCry sample to validate endpoint 
 - Correlated impacted device, user, and IP indicators
 
 **Screenshots**
-<img width="1583" height="608" alt="Screenshot_2026-03-25_14-22-27" src="https://github.com/user-attachments/assets/6650f546-820f-40d1-92e3-40105a444b32" />
-<img width="1576" height="828" alt="Screenshot_2026-03-25_14-22-50" src="https://github.com/user-attachments/assets/6f462263-5444-4284-805f-cd91b68b0f4f" />
+<img width="1594" height="864" alt="Screenshot_2026-03-25_14-28-11" src="https://github.com/user-attachments/assets/5bd641e7-648f-4837-b804-80cb8a0e5878" />
+<img width="1591" height="768" alt="Screenshot_2026-03-25_14-28-31" src="https://github.com/user-attachments/assets/62874404-9128-458d-b469-cb2152769c62" />
 ---
 
 ### 2. EICAR Malware Detection
