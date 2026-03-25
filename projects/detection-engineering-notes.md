@@ -87,6 +87,28 @@ This type of detection helps identify:
 
 ---
 
+## Real Detection Example (KQL)
+
+### Ransomware Defense Evasion – Mass Process Termination
+
+This detection identifies suspicious usage of `taskkill.exe` to terminate multiple processes within a short time window, which is commonly associated with ransomware attempting to disable security tools.
+
+**Detection Logic**
+- Monitor execution of `taskkill.exe`
+- Count number of unique process termination commands
+- Trigger alert if more than 10 processes are targeted within 2 minutes
+
+**KQL Query**
+
+```kql
+DeviceProcessEvents
+| where FileName =~ "taskkill.exe"
+| summarize taskKillCount = dcount(ProcessCommandLine), TaskKillList = make_set(ProcessCommandLine, 10000)
+  by DeviceId, DeviceName, bin(TimeGenerated, 2m)
+| where taskKillCount > 10
+
+---
+
 ## Key Skills Demonstrated
 
 - KQL-based detection design in Microsoft Sentinel
