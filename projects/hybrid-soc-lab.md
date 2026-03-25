@@ -53,7 +53,8 @@ This project improved my understanding of how SIEM, SOAR, endpoint visibility, a
 ## Screenshots to Add
 - <img width="1864" height="944" alt="image" src="https://github.com/user-attachments/assets/d4f9082b-e442-4760-8c04-869639cb24c4" />
 
-- Analytics rules page
+- Analytics rules page <img width="1865" height="956" alt="image" src="https://github.com/user-attachments/assets/b969ccaf-2296-4ffe-aa96-9faab6311d3c" />
+
 - Incident details view
 - Logic App playbook run
 - Architecture diagram
