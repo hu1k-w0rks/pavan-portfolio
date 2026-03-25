@@ -9,7 +9,6 @@ This document outlines my practical approach to building KQL-based detections in
 
 - Brute-force login attempts
 - Suspicious PowerShell execution
-- Linux privilege escalation activity
 - Ransomware defense evasion behavior
 - Process-kill activity associated with ransomware
 
@@ -105,7 +104,7 @@ DeviceProcessEvents
 | where FileName =~ "taskkill.exe"
 | summarize taskKillCount = dcount(ProcessCommandLine), TaskKillList = make_set(ProcessCommandLine, 10000)
   by DeviceId, DeviceName, bin(TimeGenerated, 2m)
-| where taskKillCount > 10
+| where taskKillCount > 10```
 
 ---
 
