@@ -97,8 +97,8 @@ Simulated suspicious activity on an Ubuntu system including brute-force-like beh
 - Validated detection against simulated attack scenario
 
 **Screenshots**
-(Add your Ubuntu detection screenshots here)
-
+<img width="1583" height="608" alt="Screenshot_2026-03-25_14-22-27" src="https://github.com/user-attachments/assets/cf9af7bd-10f4-489c-89ec-2e67d46bf170" />
+<img width="1610" height="876" alt="Screenshot_2026-03-25_14-48-32" src="https://github.com/user-attachments/assets/81cc5cc5-09c4-4ecb-a7c4-70e3dfd44eb3" />
 ---
 
 ## Investigation Workflow
