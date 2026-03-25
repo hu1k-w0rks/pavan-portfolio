@@ -67,10 +67,14 @@ This type of detection helps identify:
 - Multiple failed login attempts within a short time window
 - Repeated authentication failures from the same IP or user
 
-### Investigation Value
-- Helps identify credential attack attempts
-- Supports early detection of unauthorized access attempts
+**KQL Query**
+```kql
 
+SecurityEvent
+| where EventID == 4625
+| summarize FailedCount=count() by Computer, IpAddress, bin(TimeGenerated, 5m)
+| where FailedCount >= 3
+```
 ---
 
 ## Example Detection: Suspicious PowerShell Execution
