@@ -66,7 +66,8 @@ Executed the EICAR test file to validate real-time malware detection capabilitie
 
 **Screenshots**
 <img width="1580" height="860" alt="Screenshot_2026-03-25_14-26-26" src="https://github.com/user-attachments/assets/c661689b-9691-421c-a602-1157785fe53b" />
-
+<img width="1576" height="828" alt="Screenshot_2026-03-25_14-22-50" src="https://github.com/user-attachments/assets/7146ea8f-4d75-4719-8e4d-aef5414f2c6a" />
+<img width="1578" height="790" alt="Screenshot_2026-03-25_14-26-54" src="https://github.com/user-attachments/assets/da18fc48-7bc7-47dc-bd2f-686935aa4c32" />
 ---
 
 ### 3. Ubuntu Brute Force & Python PTY Spawn Detection
