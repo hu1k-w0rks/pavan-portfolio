@@ -53,11 +53,15 @@ Ransomware often attempts to disable security tools, terminate backup services, 
 - Monitor abnormal usage of tools capable of killing processes
 - Correlate with other suspicious activity where possible
 
-### Investigation Value
-This type of detection helps identify:
-- Early-stage ransomware behavior
-- Defense evasion attempts
-- Potential pre-encryption activity
+**KQL Query**
+```kql
+
+Event
+| where EventLog == "Microsoft-Windows-PowerShell/Operational"
+| where RenderedDescription has_any ("-ep bypass", "-EncodedCommand", "encodedcommand")
+| summarize MatchCount=count() by Computer, UserName, bin(TimeGenerated, 5m)
+| where MatchCount >= 1
+```
 
 ---
 
