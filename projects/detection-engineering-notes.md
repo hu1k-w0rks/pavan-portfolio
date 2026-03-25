@@ -54,14 +54,7 @@ Ransomware often attempts to disable security tools, terminate backup services, 
 - Correlate with other suspicious activity where possible
 
 **KQL Query**
-```kql
 
-Event
-| where EventLog == "Microsoft-Windows-PowerShell/Operational"
-| where RenderedDescription has_any ("-ep bypass", "-EncodedCommand", "encodedcommand")
-| summarize MatchCount=count() by Computer, UserName, bin(TimeGenerated, 5m)
-| where MatchCount >= 1
-```
 
 ---
 
@@ -88,9 +81,15 @@ SecurityEvent
 - Unusual execution patterns
 - PowerShell spawned from suspicious parent processes
 
-### Investigation Value
-- Detects potential post-exploitation activity
-- Identifies attacker-controlled execution
+**KQL Query**
+```kql
+
+Event
+| where EventLog == "Microsoft-Windows-PowerShell/Operational"
+| where RenderedDescription has_any ("-ep bypass", "-EncodedCommand", "encodedcommand")
+| summarize MatchCount=count() by Computer, UserName, bin(TimeGenerated, 5m)
+| where MatchCount >= 1
+```
 
 ---
 
