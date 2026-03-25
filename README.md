@@ -100,4 +100,4 @@ Documented my approach to designing KQL-based analytics for practical SOC monito
 
 ## Contact
 - Email: pavankalyan.jampana@gmail.com
-- LinkedIn: https://www.linkedin.com/in/pavan-481a7a21a/
+- LinkedIn: https://www.linkedin.com/in/pavan176/
