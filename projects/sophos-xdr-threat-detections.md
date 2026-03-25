@@ -102,6 +102,7 @@ Simulated suspicious activity on an Ubuntu system including brute-force-like beh
 <img width="1583" height="608" alt="Screenshot_2026-03-25_14-22-27" src="https://github.com/user-attachments/assets/cf9af7bd-10f4-489c-89ec-2e67d46bf170" />
 <img width="1610" height="876" alt="Screenshot_2026-03-25_14-48-32" src="https://github.com/user-attachments/assets/81cc5cc5-09c4-4ecb-a7c4-70e3dfd44eb3" />
 <img width="1609" height="472" alt="image" src="https://github.com/user-attachments/assets/1db6646f-efe2-4ca3-8407-ed782e9752bd" />
+<img width="740" height="326" alt="Screenshot_2026-03-25_14-51-11" src="https://github.com/user-attachments/assets/bbf19443-67b2-4e61-937e-a5510808f7a0" />
 
 ---
 
