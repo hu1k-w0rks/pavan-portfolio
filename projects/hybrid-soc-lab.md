@@ -57,6 +57,8 @@ This project improved my understanding of how SIEM, SOAR, endpoint visibility, a
 
 - Incident details view <img width="1874" height="965" alt="image" src="https://github.com/user-attachments/assets/dd70b783-9a17-43c4-b936-715eb37910d3" />
 
+- Alert details view <img width="1865" height="962" alt="image" src="https://github.com/user-attachments/assets/9c0da061-693e-4458-a389-85d930c798f9" />
+
 - Evidence & Response <img width="1868" height="963" alt="image" src="https://github.com/user-attachments/assets/a15607e3-317c-46d2-8359-2e86612fb95b" />
 
 - Logic App playbook run <img width="1862" height="963" alt="image" src="https://github.com/user-attachments/assets/47734a24-171f-40b9-8880-5ffb2f755c2a" />
