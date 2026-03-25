@@ -94,9 +94,7 @@ SecurityEvent
 
 ---
 
-## Real Detection Example (KQL)
-
-### Ransomware Defense Evasion – Mass Process Termination
+### Example Detection: Ransomware Defense Evasion – Mass Process Termination
 
 This detection identifies suspicious usage of `taskkill.exe` to terminate multiple processes within a short time window, which is commonly associated with ransomware attempting to disable security tools.
 
