@@ -43,6 +43,8 @@ Simulated ransomware-like behavior using a WannaCry sample to validate endpoint 
 <img width="1594" height="864" alt="Screenshot_2026-03-25_14-28-11" src="https://github.com/user-attachments/assets/5bd641e7-648f-4837-b804-80cb8a0e5878" />
 <img width="1591" height="768" alt="Screenshot_2026-03-25_14-28-31" src="https://github.com/user-attachments/assets/62874404-9128-458d-b469-cb2152769c62" />
 <img width="1607" height="889" alt="Screenshot_2026-03-25_14-47-36" src="https://github.com/user-attachments/assets/0af3960d-12c3-4ecb-841c-ca47bdb2bf8c" />
+<img width="1608" height="415" alt="image" src="https://github.com/user-attachments/assets/63aa1091-b068-462f-a26a-c710a9b079fb" />
+
 ---
 
 ### 2. EICAR Malware Detection
