@@ -53,8 +53,11 @@ Ransomware often attempts to disable security tools, terminate backup services, 
 - Monitor abnormal usage of tools capable of killing processes
 - Correlate with other suspicious activity where possible
 
-**KQL Query**
-
+### Investigation Value
+This type of detection helps identify:
+- Early-stage ransomware behavior
+- Defense evasion attempts
+- Potential pre-encryption activity
 
 ---
 
