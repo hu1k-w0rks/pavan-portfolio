@@ -50,7 +50,7 @@ Deployed and configured Logic App playbooks to automate incident enrichment and 
 ## Outcome
 This project improved my understanding of how SIEM, SOAR, endpoint visibility, and access control work together in a SOC environment. It also helped me think more practically about how to create useful alerts and reduce repetitive triage work.
 
-## Screenshots to Add
+## Screenshots
 - Sentinel Dashboard <img width="1864" height="944" alt="image" src="https://github.com/user-attachments/assets/d4f9082b-e442-4760-8c04-869639cb24c4" />
 
 - Analytics rules page <img width="1865" height="956" alt="image" src="https://github.com/user-attachments/assets/b969ccaf-2296-4ffe-aa96-9faab6311d3c" />
