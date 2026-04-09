@@ -1,4 +1,4 @@
-# Pavan Kalyan Jampana – SOC Analyst Portfolio
+# My Portfolio
 
 SOC-focused Cybersecurity Analyst with hands-on experience in SIEM monitoring, incident triage, endpoint security, and detection engineering.
 
@@ -97,6 +97,3 @@ Documented my approach to designing KQL-based analytics for practical SOC monito
 - Ranked in the top 0.1% globally on TryHackMe
 - Completed SOC, Blue Team, and Incident Response learning paths
 - Built hands-on labs for detection, investigation, and response
-
-## Contact
-- LinkedIn: https://www.linkedin.com/in/pavan176/
